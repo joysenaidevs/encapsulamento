@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\encapsulamento\bin\Debug\netcoreapp3.1\encapsulamento.exe
+C:\Users\nilma\Desktop\encapsulamento\bin\Debug\netcoreapp3.1\encapsulamento.deps.json
+C:\Users\nilma\Desktop\encapsulamento\bin\Debug\netcoreapp3.1\encapsulamento.runtimeconfig.json
+C:\Users\nilma\Desktop\encapsulamento\bin\Debug\netcoreapp3.1\encapsulamento.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\encapsulamento\bin\Debug\netcoreapp3.1\encapsulamento.dll
+C:\Users\nilma\Desktop\encapsulamento\bin\Debug\netcoreapp3.1\encapsulamento.pdb
+C:\Users\nilma\Desktop\encapsulamento\obj\Debug\netcoreapp3.1\encapsulamento.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\encapsulamento\obj\Debug\netcoreapp3.1\encapsulamento.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\encapsulamento\obj\Debug\netcoreapp3.1\encapsulamento.AssemblyInfo.cs
+C:\Users\nilma\Desktop\encapsulamento\obj\Debug\netcoreapp3.1\encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\encapsulamento\obj\Debug\netcoreapp3.1\encapsulamento.dll
+C:\Users\nilma\Desktop\encapsulamento\obj\Debug\netcoreapp3.1\encapsulamento.pdb
+C:\Users\nilma\Desktop\encapsulamento\obj\Debug\netcoreapp3.1\encapsulamento.genruntimeconfig.cache
