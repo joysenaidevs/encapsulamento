@@ -8,9 +8,12 @@ namespace encapsulamento.classe
             set {numero = value;}
         }
         private string bandeira = "MasterCard";
+
+        //propiedade
         public string Bandeira{
-            get{ return bandeira;} // Pegar dados
-            set{ bandeira = value;} //inserir dados
+            //metodo acessor
+            get{ return bandeira;} // Pegar dados - retorna um valor - leitura dos dados
+            set{ bandeira = value;} //inserir dados - altera a propiedade - definir um valor - registro dos dados
         }
         protected string token = "qwetyui";
         public string Token{
